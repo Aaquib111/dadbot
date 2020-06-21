@@ -1,4 +1,4 @@
-# dadbot
+# Dadbot
 Bot that acts like a father figure for those who don't have fathers...
 
 This is a bot that is meant to be used on a Slack chat.
